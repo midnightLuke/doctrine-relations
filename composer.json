@@ -1,0 +1,16 @@
+{
+    "name": "midnightluke/doctrine-relations",
+    "type": "symfony-bundle",
+    "require": {
+        "clue/graph": "^0.9.0",
+        "graphp/graphviz": "^0.2.1",
+        "symfony/symfony": "^3.0.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luke Bainbridge",
+            "email": "luke.bainbridge@gmail.com"
+        }
+    ]
+}
